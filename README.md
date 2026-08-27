@@ -120,7 +120,7 @@ $env:HF_TOKEN="your_hf_access_token"
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/wearable-mental-health/wearable-mental-health-pipeline.git
+git clone https://github.com/Ugdarlin/wearable-mental-health-pipeline.git
 cd wearable-mental-health-pipeline
 ```
 
