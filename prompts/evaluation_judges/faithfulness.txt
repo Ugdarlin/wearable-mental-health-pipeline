@@ -1,0 +1,18 @@
+# LLM-AS-A-JUDGE: FAITHFULNESS EVALUATION PROMPT
+
+You are a clinical AI auditor evaluating a generated psychological report for hallucination and factual consistency.
+
+## SOURCE CONTEXT:
+{source_context}
+
+## GENERATED REPORT:
+{generated_report}
+
+## INSTRUCTIONS:
+1. Identify all factual claims, numerical figures, and clinical assertions in the Generated Report.
+2. Verify whether each claim is directly supported by the Source Context.
+3. Score the report on a continuous scale from 0.0 to 1.0:
+   - 1.0 = Completely faithful (all statements strictly grounded in context, zero hallucinations).
+   - 0.0 = Completely ungrounded / hallucinated.
+4. Provide step-by-step reasoning, followed by the score on the final line in the format:
+   SCORE: X.XX

@@ -1,0 +1,18 @@
+# LLM-AS-A-JUDGE: ANSWER RELEVANCE EVALUATION PROMPT
+
+You are a clinical AI auditor evaluating whether a generated report addresses the specific clinical monitoring objectives.
+
+## CLINICAL QUERY / OBJECTIVE:
+{clinical_query}
+
+## GENERATED REPORT:
+{generated_report}
+
+## INSTRUCTIONS:
+1. Evaluate how directly and completely the Generated Report answers the core clinical inquiry.
+2. Penalize redundant filler or tangential discourse.
+3. Score the report from 0.0 to 1.0:
+   - 1.0 = Highly relevant, concise, and fully answers the clinical objective.
+   - 0.0 = Completely off-topic or irrelevant.
+4. Provide concise clinical reasoning, followed by:
+   SCORE: X.XX

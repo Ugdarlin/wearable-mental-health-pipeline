@@ -1,0 +1,1141 @@
+{
+  "clinical_profile": {
+    "participant_id": "codeword",
+    "primary_diagnosis": "Panic Disorder with Agoraphobia",
+    "baseline_anamnesis": "They have moderate panic attacks twice or thrice weekly which usually last between 10 to 60 minutes.\nThey avoided the following situations when alone: airplanes, subways, buses, trains, restaurants, traveling away from home and staying home alone.\nSome of the physical symptoms they experience during attacks are palpitations, heavy feeling in the chest, dizziness, blurred vision, and hot flashes.\nBaseline psychometric scores: Beck Depression Inventory-2 (BDI-2) score = 31 (moderate depression). Brief Symptom Checklist (BSCL) reveals elevated somatization (98.2), anxiety (99.8), and phobic anxiety (96.4)."
+  },
+  "daily_heartrate_stats": [
+    {
+      "date": "2025-05-26T00:00:00Z",
+      "daily_avg_heartrate": 81.67,
+      "daily_max_heartrate": 142.0
+    },
+    {
+      "date": "2025-05-27T00:00:00Z",
+      "daily_avg_heartrate": 79.45,
+      "daily_max_heartrate": 138.0
+    },
+    {
+      "date": "2025-05-28T00:00:00Z",
+      "daily_avg_heartrate": 83.12,
+      "daily_max_heartrate": 145.0
+    },
+    {
+      "date": "2025-05-29T00:00:00Z",
+      "daily_avg_heartrate": 80.5,
+      "daily_max_heartrate": 135.0
+    },
+    {
+      "date": "2025-05-30T00:00:00Z",
+      "daily_avg_heartrate": 82.3,
+      "daily_max_heartrate": 140.0
+    },
+    {
+      "date": "2025-05-31T00:00:00Z",
+      "daily_avg_heartrate": 84.1,
+      "daily_max_heartrate": 148.0
+    },
+    {
+      "date": "2025-06-01T00:00:00Z",
+      "daily_avg_heartrate": 80.2,
+      "daily_max_heartrate": 130.0
+    }
+  ],
+  "above_average_heartrate": [
+    {
+      "timestamp": "2025-05-26T14:03:00Z",
+      "heart_rate": 120
+    },
+    {
+      "timestamp": "2025-05-26T14:03:30Z",
+      "heart_rate": 121
+    },
+    {
+      "timestamp": "2025-05-26T14:04:00Z",
+      "heart_rate": 122
+    },
+    {
+      "timestamp": "2025-05-26T14:04:30Z",
+      "heart_rate": 123
+    },
+    {
+      "timestamp": "2025-05-26T14:05:00Z",
+      "heart_rate": 124
+    },
+    {
+      "timestamp": "2025-05-26T14:05:30Z",
+      "heart_rate": 125
+    },
+    {
+      "timestamp": "2025-05-26T14:06:00Z",
+      "heart_rate": 126
+    },
+    {
+      "timestamp": "2025-05-26T14:06:30Z",
+      "heart_rate": 127
+    },
+    {
+      "timestamp": "2025-05-26T14:09:30Z",
+      "heart_rate": 128
+    },
+    {
+      "timestamp": "2025-05-26T14:10:00Z",
+      "heart_rate": 129
+    },
+    {
+      "timestamp": "2025-05-26T14:10:30Z",
+      "heart_rate": 130
+    },
+    {
+      "timestamp": "2025-05-26T14:11:00Z",
+      "heart_rate": 131
+    },
+    {
+      "timestamp": "2025-05-26T14:11:30Z",
+      "heart_rate": 132
+    },
+    {
+      "timestamp": "2025-05-26T14:12:00Z",
+      "heart_rate": 133
+    },
+    {
+      "timestamp": "2025-05-26T14:12:30Z",
+      "heart_rate": 134
+    },
+    {
+      "timestamp": "2025-05-26T14:13:00Z",
+      "heart_rate": 135
+    },
+    {
+      "timestamp": "2025-05-26T14:16:00Z",
+      "heart_rate": 136
+    },
+    {
+      "timestamp": "2025-05-26T14:16:30Z",
+      "heart_rate": 137
+    },
+    {
+      "timestamp": "2025-05-26T14:17:00Z",
+      "heart_rate": 138
+    },
+    {
+      "timestamp": "2025-05-26T14:17:30Z",
+      "heart_rate": 139
+    },
+    {
+      "timestamp": "2025-05-26T14:18:00Z",
+      "heart_rate": 140
+    },
+    {
+      "timestamp": "2025-05-26T14:18:30Z",
+      "heart_rate": 141
+    },
+    {
+      "timestamp": "2025-05-26T14:19:00Z",
+      "heart_rate": 142
+    },
+    {
+      "timestamp": "2025-05-26T14:19:30Z",
+      "heart_rate": 143
+    },
+    {
+      "timestamp": "2025-05-26T14:22:30Z",
+      "heart_rate": 144
+    },
+    {
+      "timestamp": "2025-05-26T14:23:00Z",
+      "heart_rate": 120
+    },
+    {
+      "timestamp": "2025-05-26T14:23:30Z",
+      "heart_rate": 121
+    },
+    {
+      "timestamp": "2025-05-26T14:24:00Z",
+      "heart_rate": 122
+    },
+    {
+      "timestamp": "2025-05-26T14:24:30Z",
+      "heart_rate": 123
+    },
+    {
+      "timestamp": "2025-05-26T14:25:00Z",
+      "heart_rate": 124
+    },
+    {
+      "timestamp": "2025-05-26T14:25:30Z",
+      "heart_rate": 125
+    },
+    {
+      "timestamp": "2025-05-26T14:26:00Z",
+      "heart_rate": 126
+    },
+    {
+      "timestamp": "2025-05-26T14:29:00Z",
+      "heart_rate": 127
+    },
+    {
+      "timestamp": "2025-05-26T14:29:30Z",
+      "heart_rate": 128
+    },
+    {
+      "timestamp": "2025-05-26T14:30:00Z",
+      "heart_rate": 129
+    },
+    {
+      "timestamp": "2025-05-26T14:30:30Z",
+      "heart_rate": 130
+    },
+    {
+      "timestamp": "2025-05-26T14:31:00Z",
+      "heart_rate": 131
+    },
+    {
+      "timestamp": "2025-05-26T14:31:30Z",
+      "heart_rate": 132
+    },
+    {
+      "timestamp": "2025-05-26T14:32:00Z",
+      "heart_rate": 133
+    },
+    {
+      "timestamp": "2025-05-26T14:32:30Z",
+      "heart_rate": 134
+    },
+    {
+      "timestamp": "2025-05-26T14:35:30Z",
+      "heart_rate": 135
+    },
+    {
+      "timestamp": "2025-05-26T14:36:00Z",
+      "heart_rate": 136
+    },
+    {
+      "timestamp": "2025-05-26T14:36:30Z",
+      "heart_rate": 137
+    },
+    {
+      "timestamp": "2025-05-26T14:37:00Z",
+      "heart_rate": 138
+    },
+    {
+      "timestamp": "2025-05-26T14:37:30Z",
+      "heart_rate": 139
+    },
+    {
+      "timestamp": "2025-05-26T14:38:00Z",
+      "heart_rate": 140
+    },
+    {
+      "timestamp": "2025-05-26T14:38:30Z",
+      "heart_rate": 141
+    },
+    {
+      "timestamp": "2025-05-26T14:39:00Z",
+      "heart_rate": 142
+    },
+    {
+      "timestamp": "2025-05-26T14:42:00Z",
+      "heart_rate": 143
+    },
+    {
+      "timestamp": "2025-05-26T14:42:30Z",
+      "heart_rate": 144
+    },
+    {
+      "timestamp": "2025-05-26T14:43:00Z",
+      "heart_rate": 120
+    },
+    {
+      "timestamp": "2025-05-26T14:43:30Z",
+      "heart_rate": 121
+    },
+    {
+      "timestamp": "2025-05-26T14:44:00Z",
+      "heart_rate": 122
+    },
+    {
+      "timestamp": "2025-05-26T14:44:30Z",
+      "heart_rate": 123
+    },
+    {
+      "timestamp": "2025-05-26T14:45:00Z",
+      "heart_rate": 124
+    },
+    {
+      "timestamp": "2025-05-26T14:45:30Z",
+      "heart_rate": 125
+    },
+    {
+      "timestamp": "2025-05-26T14:48:30Z",
+      "heart_rate": 126
+    },
+    {
+      "timestamp": "2025-05-26T14:49:00Z",
+      "heart_rate": 127
+    },
+    {
+      "timestamp": "2025-05-26T14:49:30Z",
+      "heart_rate": 128
+    },
+    {
+      "timestamp": "2025-05-26T14:50:00Z",
+      "heart_rate": 129
+    },
+    {
+      "timestamp": "2025-05-26T14:50:30Z",
+      "heart_rate": 130
+    },
+    {
+      "timestamp": "2025-05-26T14:51:00Z",
+      "heart_rate": 131
+    },
+    {
+      "timestamp": "2025-05-26T14:51:30Z",
+      "heart_rate": 132
+    },
+    {
+      "timestamp": "2025-05-26T14:52:00Z",
+      "heart_rate": 133
+    },
+    {
+      "timestamp": "2025-05-26T14:55:00Z",
+      "heart_rate": 134
+    },
+    {
+      "timestamp": "2025-05-26T14:55:30Z",
+      "heart_rate": 135
+    },
+    {
+      "timestamp": "2025-05-26T14:56:00Z",
+      "heart_rate": 136
+    },
+    {
+      "timestamp": "2025-05-26T14:56:30Z",
+      "heart_rate": 137
+    },
+    {
+      "timestamp": "2025-05-26T14:57:00Z",
+      "heart_rate": 138
+    },
+    {
+      "timestamp": "2025-05-26T14:57:30Z",
+      "heart_rate": 139
+    },
+    {
+      "timestamp": "2025-05-26T14:58:00Z",
+      "heart_rate": 140
+    },
+    {
+      "timestamp": "2025-05-26T14:58:30Z",
+      "heart_rate": 141
+    },
+    {
+      "timestamp": "2025-05-26T15:01:30Z",
+      "heart_rate": 142
+    },
+    {
+      "timestamp": "2025-05-26T15:02:00Z",
+      "heart_rate": 143
+    },
+    {
+      "timestamp": "2025-05-26T15:02:30Z",
+      "heart_rate": 144
+    },
+    {
+      "timestamp": "2025-05-26T15:03:00Z",
+      "heart_rate": 120
+    },
+    {
+      "timestamp": "2025-05-26T15:03:30Z",
+      "heart_rate": 121
+    },
+    {
+      "timestamp": "2025-05-26T15:04:00Z",
+      "heart_rate": 122
+    },
+    {
+      "timestamp": "2025-05-26T15:04:30Z",
+      "heart_rate": 123
+    },
+    {
+      "timestamp": "2025-05-26T15:05:00Z",
+      "heart_rate": 124
+    },
+    {
+      "timestamp": "2025-05-26T15:08:00Z",
+      "heart_rate": 125
+    },
+    {
+      "timestamp": "2025-05-26T15:08:30Z",
+      "heart_rate": 126
+    }
+  ],
+  "activity_logs": [
+    {
+      "start_time": "2025-05-26T00:37:30Z",
+      "end_time": "2025-05-26T00:37:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:37:50Z",
+      "end_time": "2025-05-26T00:37:53Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:38:10Z",
+      "end_time": "2025-05-26T00:38:13Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:38:30Z",
+      "end_time": "2025-05-26T00:38:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:38:50Z",
+      "end_time": "2025-05-26T00:38:53Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:39:10Z",
+      "end_time": "2025-05-26T00:39:13Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:39:30Z",
+      "end_time": "2025-05-26T00:39:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:39:50Z",
+      "end_time": "2025-05-26T00:39:53Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:40:10Z",
+      "end_time": "2025-05-26T00:40:13Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:40:30Z",
+      "end_time": "2025-05-26T00:40:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:48:00Z",
+      "end_time": "2025-05-26T00:48:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:48:20Z",
+      "end_time": "2025-05-26T00:48:23Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:48:40Z",
+      "end_time": "2025-05-26T00:48:43Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:49:00Z",
+      "end_time": "2025-05-26T00:49:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:49:20Z",
+      "end_time": "2025-05-26T00:49:23Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:49:40Z",
+      "end_time": "2025-05-26T00:49:43Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:50:00Z",
+      "end_time": "2025-05-26T00:50:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:50:20Z",
+      "end_time": "2025-05-26T00:50:23Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:50:40Z",
+      "end_time": "2025-05-26T00:50:43Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:51:00Z",
+      "end_time": "2025-05-26T00:51:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:58:30Z",
+      "end_time": "2025-05-26T00:58:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:58:50Z",
+      "end_time": "2025-05-26T00:58:53Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:59:10Z",
+      "end_time": "2025-05-26T00:59:13Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:59:30Z",
+      "end_time": "2025-05-26T00:59:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T00:59:50Z",
+      "end_time": "2025-05-26T00:59:53Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:00:10Z",
+      "end_time": "2025-05-26T01:00:13Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:00:30Z",
+      "end_time": "2025-05-26T01:00:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:00:50Z",
+      "end_time": "2025-05-26T01:00:53Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:01:10Z",
+      "end_time": "2025-05-26T01:01:13Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:01:30Z",
+      "end_time": "2025-05-26T01:01:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:09:00Z",
+      "end_time": "2025-05-26T01:09:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:09:20Z",
+      "end_time": "2025-05-26T01:09:23Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:09:40Z",
+      "end_time": "2025-05-26T01:09:43Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:10:00Z",
+      "end_time": "2025-05-26T01:10:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:10:20Z",
+      "end_time": "2025-05-26T01:10:23Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:10:40Z",
+      "end_time": "2025-05-26T01:10:43Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:11:00Z",
+      "end_time": "2025-05-26T01:11:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:11:20Z",
+      "end_time": "2025-05-26T01:11:23Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:11:40Z",
+      "end_time": "2025-05-26T01:11:43Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:12:00Z",
+      "end_time": "2025-05-26T01:12:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:19:30Z",
+      "end_time": "2025-05-26T01:19:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:19:50Z",
+      "end_time": "2025-05-26T01:19:53Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:20:10Z",
+      "end_time": "2025-05-26T01:20:13Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:20:30Z",
+      "end_time": "2025-05-26T01:20:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:20:50Z",
+      "end_time": "2025-05-26T01:20:53Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:21:10Z",
+      "end_time": "2025-05-26T01:21:13Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:21:30Z",
+      "end_time": "2025-05-26T01:21:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:21:50Z",
+      "end_time": "2025-05-26T01:21:53Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:22:10Z",
+      "end_time": "2025-05-26T01:22:13Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:22:30Z",
+      "end_time": "2025-05-26T01:22:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:30:00Z",
+      "end_time": "2025-05-26T01:30:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:30:20Z",
+      "end_time": "2025-05-26T01:30:23Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:30:40Z",
+      "end_time": "2025-05-26T01:30:43Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:31:00Z",
+      "end_time": "2025-05-26T01:31:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:31:20Z",
+      "end_time": "2025-05-26T01:31:23Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:31:40Z",
+      "end_time": "2025-05-26T01:31:43Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:32:00Z",
+      "end_time": "2025-05-26T01:32:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:32:20Z",
+      "end_time": "2025-05-26T01:32:23Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:32:40Z",
+      "end_time": "2025-05-26T01:32:43Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:33:00Z",
+      "end_time": "2025-05-26T01:33:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:40:30Z",
+      "end_time": "2025-05-26T01:40:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:40:50Z",
+      "end_time": "2025-05-26T01:40:53Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:41:10Z",
+      "end_time": "2025-05-26T01:41:13Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:41:30Z",
+      "end_time": "2025-05-26T01:41:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:41:50Z",
+      "end_time": "2025-05-26T01:41:53Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:42:10Z",
+      "end_time": "2025-05-26T01:42:13Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:42:30Z",
+      "end_time": "2025-05-26T01:42:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:42:50Z",
+      "end_time": "2025-05-26T01:42:53Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:43:10Z",
+      "end_time": "2025-05-26T01:43:13Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:43:30Z",
+      "end_time": "2025-05-26T01:43:33Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:51:00Z",
+      "end_time": "2025-05-26T01:51:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:51:20Z",
+      "end_time": "2025-05-26T01:51:23Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:51:40Z",
+      "end_time": "2025-05-26T01:51:43Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:52:00Z",
+      "end_time": "2025-05-26T01:52:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:52:20Z",
+      "end_time": "2025-05-26T01:52:23Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:52:40Z",
+      "end_time": "2025-05-26T01:52:43Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:53:00Z",
+      "end_time": "2025-05-26T01:53:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:53:20Z",
+      "end_time": "2025-05-26T01:53:23Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:53:40Z",
+      "end_time": "2025-05-26T01:53:43Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T01:54:00Z",
+      "end_time": "2025-05-26T01:54:03Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:01:30Z",
+      "end_time": "2025-05-26T02:01:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:01:50Z",
+      "end_time": "2025-05-26T02:01:53Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:02:10Z",
+      "end_time": "2025-05-26T02:02:13Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:02:30Z",
+      "end_time": "2025-05-26T02:02:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:02:50Z",
+      "end_time": "2025-05-26T02:02:53Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:03:10Z",
+      "end_time": "2025-05-26T02:03:13Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:03:30Z",
+      "end_time": "2025-05-26T02:03:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:03:50Z",
+      "end_time": "2025-05-26T02:03:53Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:04:10Z",
+      "end_time": "2025-05-26T02:04:13Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:04:30Z",
+      "end_time": "2025-05-26T02:04:33Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:12:00Z",
+      "end_time": "2025-05-26T02:12:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:12:20Z",
+      "end_time": "2025-05-26T02:12:23Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:12:40Z",
+      "end_time": "2025-05-26T02:12:43Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:13:00Z",
+      "end_time": "2025-05-26T02:13:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:13:20Z",
+      "end_time": "2025-05-26T02:13:23Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:13:40Z",
+      "end_time": "2025-05-26T02:13:43Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:14:00Z",
+      "end_time": "2025-05-26T02:14:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:14:20Z",
+      "end_time": "2025-05-26T02:14:23Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:14:40Z",
+      "end_time": "2025-05-26T02:14:43Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:15:00Z",
+      "end_time": "2025-05-26T02:15:03Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:22:30Z",
+      "end_time": "2025-05-26T02:22:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:22:50Z",
+      "end_time": "2025-05-26T02:22:53Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:23:10Z",
+      "end_time": "2025-05-26T02:23:13Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:23:30Z",
+      "end_time": "2025-05-26T02:23:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:23:50Z",
+      "end_time": "2025-05-26T02:23:53Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:24:10Z",
+      "end_time": "2025-05-26T02:24:13Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:24:30Z",
+      "end_time": "2025-05-26T02:24:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:24:50Z",
+      "end_time": "2025-05-26T02:24:53Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:25:10Z",
+      "end_time": "2025-05-26T02:25:13Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:25:30Z",
+      "end_time": "2025-05-26T02:25:33Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:33:00Z",
+      "end_time": "2025-05-26T02:33:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:33:20Z",
+      "end_time": "2025-05-26T02:33:23Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:33:40Z",
+      "end_time": "2025-05-26T02:33:43Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:34:00Z",
+      "end_time": "2025-05-26T02:34:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:34:20Z",
+      "end_time": "2025-05-26T02:34:23Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:34:40Z",
+      "end_time": "2025-05-26T02:34:43Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:35:00Z",
+      "end_time": "2025-05-26T02:35:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:35:20Z",
+      "end_time": "2025-05-26T02:35:23Z",
+      "predicted_activity": "hand_scratching",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:35:40Z",
+      "end_time": "2025-05-26T02:35:43Z",
+      "predicted_activity": "sitting",
+      "confidence": 0.92
+    },
+    {
+      "start_time": "2025-05-26T02:36:00Z",
+      "end_time": "2025-05-26T02:36:03Z",
+      "predicted_activity": "ear_rubbing",
+      "confidence": 0.92
+    }
+  ],
+  "daily_journals": [
+    {
+      "date": "2025-05-26T22:00:00Z",
+      "stimmung": 48,
+      "nervositaet": 55,
+      "schlafQualitaet": 45,
+      "anzahlPanikattacken": 1,
+      "panikattackenDetails": [
+        {
+          "intensitaet": 75,
+          "symptome": [
+            "Palpitations",
+            "Dizziness",
+            "Hot flashes"
+          ],
+          "situation": "Eating dinner at crowded restaurant"
+        }
+      ]
+    },
+    {
+      "date": "2025-05-27T22:00:00Z",
+      "stimmung": 50,
+      "nervositaet": 52,
+      "schlafQualitaet": 60,
+      "anzahlPanikattacken": 0,
+      "panikattackenDetails": []
+    },
+    {
+      "date": "2025-05-28T22:00:00Z",
+      "stimmung": 45,
+      "nervositaet": 60,
+      "schlafQualitaet": 40,
+      "anzahlPanikattacken": 1,
+      "panikattackenDetails": [
+        {
+          "intensitaet": 80,
+          "symptome": [
+            "Palpitations",
+            "Shortness of breath"
+          ],
+          "situation": "Social dinner with colleagues"
+        }
+      ]
+    }
+  ]
+}

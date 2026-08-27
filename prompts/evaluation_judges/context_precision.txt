@@ -1,0 +1,18 @@
+# LLM-AS-A-JUDGE: CONTEXT PRECISION EVALUATION PROMPT
+
+You are a clinical AI auditor evaluating the precision of retrieved RAG knowledge chunks for a clinical scenario.
+
+## CLINICAL SCENARIO / QUERY:
+{clinical_query}
+
+## RETRIEVED CONTEXT CHUNKS:
+{retrieved_context}
+
+## INSTRUCTIONS:
+1. Evaluate whether the retrieved literature chunks are directly relevant to the patient's active triggers and presenting symptoms.
+2. Verify if the most relevant therapeutic guidelines (e.g. CBT, HRT) are ranked highest.
+3. Score the retrieval from 0.0 to 1.0:
+   - 1.0 = Perfectly precise and clinically grounded.
+   - 0.0 = Completely irrelevant noise.
+4. Provide concise reasoning, followed by:
+   SCORE: X.XX

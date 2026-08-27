@@ -1,0 +1,29 @@
+## Shorten Report for Psychologist - Patient Monitoring Data (2025-05-26 - 2025-06-02)
+
+**Patient:** [Patient Name/ID - *Please fill in*]
+**Diagnosis:** Panic Disorder with possible Agoraphobia
+
+**1. Risk & Protective Factors (Context):**
+
+Patient presents with a diagnosed Panic Disorder, potentially compounded by agoraphobic tendencies. This week’s data suggests significant anxiety manifesting through somatic symptoms and repetitive behaviors. The consistently elevated average Heart Rate (81.67 bpm) indicates ongoing physiological arousal.
+
+**2. Observed Factors (Last Week):**
+
+The dominant behavioral observation is **extensive hand scratching** (39h 5m total, 324 bouts). This is likely a maladaptive coping mechanism for anxiety, with the longest bout (570.1 mins) indicating potential escalation during periods of distress. Notably, both hand scratching and brief periods of **sitting** (1h 55m total) are most frequent during **Late Night (0-6)**, suggesting heightened anxiety/discomfort during periods of reduced external stimulation and potentially before/after sleep.  Other observed behaviors include minimal ear rubbing (0h 19m) – most frequent during evening – and infrequent hair touching.  **Subjective nervousness**, as reported in the patient’s journal, is high (53.38/100).
+
+**3. Likelihood of Future Panic Attacks:**
+
+The high frequency and duration of hand scratching, coupled with the elevated heart rate and reported nervousness, suggest a *high* likelihood of continued and potentially escalating anxiety, and thus, a continued risk of panic attacks. The late-night intensification of anxiety-related behaviors warrants further exploration regarding sleep hygiene and potential night-time panic symptoms.  The possible agoraphobia needs to be assessed through direct questioning regarding avoidance behaviours.
+
+**4. Treatment Recommendations (CBT Focus):**
+
+*   **Prioritize Habit Reversal Training (HRT) for hand scratching.** This should be the immediate focus, addressing the most prominent and time-consuming maladaptive coping mechanism.
+*   **Explore the function of scratching:** Is it purely sensory seeking, or is it tied to specific anxious thoughts/situations?  This will inform HRT strategies.
+*   **Cognitive Restructuring:** Address the underlying anxious thoughts contributing to the high nervousness scores (53.38/100) and behaviours. Focus on identifying and challenging catastrophic thinking patterns.
+*   **Sleep Hygiene Assessment:** Investigate sleep patterns and potential triggers for late-night anxiety. Consider implementing relaxation techniques before bed.
+*   **Exposure Therapy (Agoraphobia):**  Assess the degree of agoraphobic avoidance and begin to implement a gradual exposure hierarchy if indicated.
+*   **Heart Rate Monitoring Awareness:** Continue monitoring HR as a biofeedback tool, helping the patient recognize physiological signs of anxiety and practice coping strategies *before* escalation.
+
+
+
+**Note:** This report is based on automated data collection and should be integrated with clinical assessment and patient self-report.

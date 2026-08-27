@@ -1,0 +1,30 @@
+## Shorten Report for Psychologist - Patient Monitoring (Oct 27 - Nov 3, 2025)
+
+**Patient:** [Patient Name - *Please fill in*]
+**Date:** November 4, 2025
+
+**1. Risk & Protective Factors (Context):**
+
+Patient presents with a diagnosed Panic Disorder, potentially developing into Agoraphobia. Monitoring data suggests a strong correlation between anxiety manifestation and evening hours (18-24). While journaling indicates no reported nervousness during the monitored period, observed behaviours suggest underlying anxiety is present.
+
+**2. Observed Factors (Last Week):**
+
+The past week’s data indicates significant self-soothing behaviours, primarily manifesting as repetitive physical actions.  **Hand Scratching** was the most prominent behaviour, totaling 2h 39m across 22 bouts, with the longest single bout lasting over 30 minutes.  Other observed behaviours included **Ear Rubbing (1m total, 7 bouts), Nail Biting (1m total, 7 bouts), and Hair Pulling (7 bouts)**. All behaviours were most frequent during the evening (18-24).  Average Heart Rate (HR) remained elevated at 87.30 bpm throughout the week, potentially indicative of ongoing physiological arousal.
+
+**3. Likelihood of Future Panic Attacks:**
+
+The consistent engagement in self-soothing behaviours, particularly the substantial duration of hand scratching, suggests a high degree of underlying anxiety. While the absence of reported 'nervousness' in the journal may indicate avoidance or suppression of emotional awareness, the physiological data (elevated HR) and behavioural patterns suggest the potential for escalating anxiety and increased risk of panic attacks, especially during evening hours. The focus on repetitive behaviours could be a maladaptive coping mechanism, potentially hindering effective emotion regulation.
+
+**4. Treatment Recommendations (CBT Focus):**
+
+* **CBT Focus:** Prioritize Cognitive Behavioural Therapy (CBT) techniques, specifically targeting anxiety management and emotion regulation.
+* **Exposure Therapy:** Given the potential for Agoraphobia, a gradual exposure therapy plan should be considered, starting with less anxiety-provoking situations.
+* **Behavioural Interventions:**  Directly address the observed self-soothing behaviours (hand scratching, nail biting, etc.).  Functional Behavioural Analysis (FBA) is recommended to understand the triggers and maintaining factors for these behaviours.  Implement competing behaviours and stimulus control strategies.
+* **Evening Focus:**  Due to the peak occurrence of behaviours during the evening, dedicate a portion of therapy sessions to identifying triggers and developing coping strategies specifically for this time period.
+* **HR Monitoring Integration:** Continue HR monitoring and incorporate data into sessions to help the patient recognize physiological signs of anxiety.
+
+
+
+**Respectfully submitted,**
+
+AI Assistant for Psychological Monitoring.
