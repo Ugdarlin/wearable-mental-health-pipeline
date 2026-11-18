@@ -21,9 +21,9 @@ This directory contains the complete data, evaluation instruments, and reproduci
 
 ---
 
-## Key Methodological & Statistical Specifications (Addressing Peer Review)
+## Key Methodological & Statistical Specifications
 
-In response to peer review (Reviewer AS, Critiques R1-M1 and R1-M4), this repository adheres strictly to verified statistical standards:
+This repository adheres strictly to verified statistical standards:
 
 1. **Standard `irrCAC` Implementation:**
    - Previous informal scripts implemented custom agreement functions that diverged from published formulations. The replication scripts now directly utilize or mathematically mirror `irrCAC::gwet.ac1.raw(..., weights = "linear", categ.labels = 1:5)`.
@@ -77,12 +77,12 @@ python statistical_analysis.py --input raw_expert_ratings.csv --preferences form
 ```
 
 Both scripts generate:
-- `table4_gwet_ac2_reproduced.csv` (Matches Table 4 in manuscript v12)
-- `paired_differences_reproduced.csv` (Matches paired statistical results in manuscript v12 and Multimedia Appendix 3)
+- `table4_gwet_ac2_reproduced.csv` 
+- `paired_differences_reproduced.csv` 
 
 ---
 
-## Expected Benchmark Results (Table 4 Reproduction)
+## Expected Benchmark Results
 
 ### 1. Long-Form (Research Log)
 
