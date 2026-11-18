@@ -1,0 +1,8 @@
+Criterion,N_pairs,Median_Diff,Q1_Diff,Q3_Diff,IQR_Diff,Mean_Diff,SD_Diff,Wilcoxon_W,p_value
+Information Hierarchy (A.1),20,0.0,0.0,0.0,0.0,0.05,0.94,16.0,0.7728
+Conciseness (A.2),20,0.0,-0.25,1.0,1.25,0.1,1.02,28.0,0.6418
+Identification of Context Factors (B.3),20,0.0,-1.0,0.0,1.0,-0.15,0.99,21.0,0.4902
+Perceived Plausibility of Risk Assessment (B.4),19,1.0,0.0,1.0,1.0,0.68,1.2,15.0,0.0267
+Clinical Relevance (C.5),20,0.0,-1.0,0.0,1.0,-0.25,0.91,13.5,0.2482
+Actionability & Appropriateness (C.6),20,0.0,-1.0,0.0,1.0,-0.3,0.86,13.5,0.1303
+Overall Value for Session Prep (D.7),19,0.0,-1.0,0.0,1.0,-0.32,0.82,16.5,0.1088

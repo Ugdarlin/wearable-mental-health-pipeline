@@ -1,0 +1,15 @@
+Format,Criterion,N_obs,N_missing,Median,Q1,Q3,IQR,Mean,SD,Pa,Pe,AC2,SE,CI95_Lower,CI95_Upper,p_value
+Long-Form (Research Log),Information Hierarchy (A.1),20,1,3.0,3.0,3.25,0.25,3.05,0.69,0.8167,0.4478,0.668,0.0479,0.462,0.874,0.0025
+Long-Form (Research Log),Conciseness (A.2),20,1,3.0,2.0,3.0,1.0,2.8,0.7,0.8103,0.4597,0.649,0.1584,-0.033,1.0,0.0274
+Long-Form (Research Log),Identification of Context Factors (B.3),20,1,2.5,2.0,3.0,1.0,2.7,0.8,0.7889,0.4611,0.6083,0.1124,0.125,1.0,0.0163
+Long-Form (Research Log),Perceived Plausibility of Risk Assessment (B.4),20,1,2.0,2.0,2.25,0.25,2.1,0.64,0.8333,0.4147,0.7153,0.1429,0.101,1.0,0.0188
+Long-Form (Research Log),Clinical Relevance (C.5),20,1,2.0,2.0,3.25,1.25,2.7,0.86,0.7889,0.4441,0.6203,0.0984,0.197,1.0,0.0121
+Long-Form (Research Log),Actionability & Appropriateness (C.6),20,1,3.0,2.0,4.0,2.0,2.8,0.95,0.7738,0.5128,0.5358,0.0163,0.466,0.606,0.0005
+Long-Form (Research Log),Overall Value for Session Prep (D.7),19,2,2.0,2.0,3.0,1.0,2.21,0.63,0.8222,0.4174,0.6948,0.0379,0.532,0.858,0.0015
+Short-Form (Psychologist Report),Information Hierarchy (A.1),20,1,3.0,2.75,4.0,1.25,3.1,0.91,0.727,0.5079,0.4452,0.1166,-0.056,0.947,0.0311
+Short-Form (Psychologist Report),Conciseness (A.2),20,1,3.0,2.0,4.0,2.0,2.9,1.07,0.6794,0.5562,0.2775,0.0913,-0.115,0.67,0.0467
+Short-Form (Psychologist Report),Identification of Context Factors (B.3),20,1,2.5,2.0,3.0,1.0,2.55,0.76,0.7913,0.4735,0.6036,0.1497,-0.041,1.0,0.0282
+Short-Form (Psychologist Report),Perceived Plausibility of Risk Assessment (B.4),19,2,3.0,2.0,3.5,1.5,2.74,0.93,0.7794,0.5121,0.5478,0.0665,0.262,0.834,0.0072
+Short-Form (Psychologist Report),Clinical Relevance (C.5),20,1,2.0,2.0,3.0,1.0,2.45,1.0,0.696,0.5233,0.3623,0.0754,0.038,0.687,0.0204
+Short-Form (Psychologist Report),Actionability & Appropriateness (C.6),20,1,2.5,2.0,3.0,1.0,2.5,0.95,0.7317,0.5305,0.4286,0.076,0.102,0.756,0.015
+Short-Form (Psychologist Report),Overall Value for Session Prep (D.7),20,1,2.0,1.0,2.25,1.25,2.0,0.86,0.7508,0.5034,0.4982,0.1631,-0.204,1.0,0.0463
